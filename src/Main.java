@@ -11,7 +11,7 @@ public class Main {
         anywareTank.printPosition();
         customTank.goForward(201);
         customTank.printPosition();
-        System.out.println("Master");
+        System.out.println("New York");
 
 
 /*        Tank tank = new Tank();
